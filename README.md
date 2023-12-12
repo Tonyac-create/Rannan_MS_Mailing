@@ -26,7 +26,7 @@ Assurez-vous d'avoir les éléments suivants installés avant de commencer :
 ## Utilisation
 
 1. Démarrez le serveur de développement :
-```npm run dev```
+```npm run start:dev```
 2. Accédez à l'application dans votre navigateur à l'adresse suivante :
 ```http://localhost:<PORT définit dans votre '.env'>```
 

@@ -19,6 +19,6 @@ async function bootstrap() {
 
 	await app.listen(process.env.PORT);
   await app.startAllMicroservices()
-  console.log(`Server NATS start at : http://localhost:${process.env.PORT}`)
+  console.log(`MS-mail start at : http://localhost:${process.env.PORT}`)
 }
 bootstrap();
