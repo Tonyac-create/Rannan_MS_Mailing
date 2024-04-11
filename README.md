@@ -33,7 +33,7 @@ Assurez-vous d'avoir les éléments suivants installés avant de commencer :
 ## Auteurs
 
 - Cayetano Rubio Hernanz {Front/Back} => https://www.linkedin.com/in/cayetano-rubio-hernanz-417b8a191/
-- Angélique Copéré  {Front/Back} => https://www.linkedin.com/in/angélique-copéré-dev/
+- Angélique Copéré  {Front/Back} => https://www.linkedin.com/in/angelique-copere-dev
 - Thomas Pijat {Front/Back} => https://www.linkedin.com/in/pijat-thomas/
 
 ## Licence
